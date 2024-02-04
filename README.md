@@ -1,7 +1,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sk14cj)](https://solved.ac/sk14cj/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=sk14cj&theme=warm)
 
-## 학력
+## Experience
 <ul>
   <li>인천대학교 정보기술대학 임베디드시스템공학과 휴학 (2020.03 ~ )</li>
   <li>인천가정고등학교 졸업 (2017.03 ~ 2020.02)</li>
