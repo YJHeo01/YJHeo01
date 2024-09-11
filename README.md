@@ -3,6 +3,7 @@
   <li> 2023.04 SQLD <a href="https://blog.naver.com/thinking_diary/223196371087">후기</a> </li>
   <li> 2023.09 정보처리기사 </li>
   <li> 2024.09 교내 알고리즘 경진대회 <a href="https://www.acmicpc.net/contest/view/1363"> INU 코드페스티벌 2024 </a> 출제 및 운영 </li>
+  <li> Python, JAVA, SQL, C, C++ </li>
 </ul>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sk14cj)](https://solved.ac/sk14cj/)
