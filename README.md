@@ -1,5 +1,5 @@
 <ul>
-  <li> 2020.03 인천대학교 정보기술대학 임베디드시스템공학과 입학 </li>
+  <li> 2020.03 인천대학교 정보기술대학 <a href="https://www.inu.ac.kr/sites/ese/index.do?epTicket=LOG">임베디드시스템공학과</a> 입학 </li>
   <li> 2023.04 SQLD <a href="https://blog.naver.com/thinking_diary/223196371087">후기</a> </li>
   <li> 2023.09 정보처리기사 </li>
   <li> 2024.09 교내 알고리즘 경진대회 <a href="https://www.acmicpc.net/contest/view/1363"> INU 코드페스티벌 2024 </a> 출제 및 운영 </li>
