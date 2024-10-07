@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsk14cj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <ul>
   <li> 2020.03 인천대학교 정보기술대학 <a href="https://www.inu.ac.kr/sites/ese/index.do?epTicket=LOG">임베디드시스템공학과</a> 입학 </li>
   <li> 2023.03 SQLD </li>
@@ -6,9 +8,12 @@
   <li> <a href="https://www.acmicpc.net/problemset?sort=no_asc&author=sk14cj&author_type=1"> 출제한 문제 목록 </a></li>
 </ul>
 
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sk14cj)](https://solved.ac/sk14cj/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=sk14cj&theme=warm)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJHeo01&show_icons=true&theme=dracula)
+<br>
 [![Atcoder](https://atcoder.junah.dev/v1/generate_badge?name=sk14cj)](https://atcoder.jp/users/sk14cj)
 
 <!--
