@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsk14cj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <ul>
   <li> 2020.03 인천대학교 정보기술대학 <a href="https://www.inu.ac.kr/sites/ese/index.do?epTicket=LOG">임베디드시스템공학과</a> 입학 </li>
   <li> 2023.03 SQLD </li>
