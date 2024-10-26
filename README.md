@@ -5,6 +5,9 @@
   <li> 2023.09 정보처리기사 </li>
   <li> 2024.09 교내 알고리즘 경진대회 <a href="https://www.acmicpc.net/category/detail/4300"> INU 코드페스티벌 2024 </a> 출제 및 운영 (BOJ HANDLE : sk14cj) </li>
   <li> <a href="https://www.acmicpc.net/problemset?sort=no_asc&author=sk14cj&author_type=1"> 출제한 문제 목록 </a></li>
+  <li>
+     2024.10 인천대학교 공로상
+  </li>
 </ul>
 
 
