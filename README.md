@@ -8,10 +8,6 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sk14cj)](https://solved.ac/sk14cj/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=sk14cj&theme=warm)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJHeo01&show_icons=true&theme=dracula)
-<br>
 [![Atcoder](https://atcoder.junah.dev/v1/generate_badge?name=sk14cj)](https://atcoder.jp/users/sk14cj)
 
 <!--
