@@ -1,7 +1,7 @@
 <ul>
   <li> 2020.03~ 인천대학교 정보기술대학 <a href="https://www.inu.ac.kr/sites/ese/index.do?epTicket=LOG">임베디드시스템공학과</a> </li>
   <li> 2024.09 교내 알고리즘 경진대회 <a href="https://www.acmicpc.net/category/detail/4300"> INU 코드페스티벌 2024 </a> 출제 및 운영 (BOJ HANDLE : sk14cj) </li>
-  <li> 2024.12 2024년 백준 온라인 저지 연간 랭킹 133등 <a href="https://www.acmicpc.net/ranklist/year/2024/2">링크</li>
+  <li> 2024.12 2024년 백준 온라인 저지 연간 랭킹 132등 <a href="https://www.acmicpc.net/ranklist/year/2024/2">링크</li>
  </ul>
 
 
