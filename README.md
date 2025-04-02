@@ -7,7 +7,7 @@
   <li> 2025.03 BOJ Contributor (사이드 프로젝트)</li>
  </ul>
 
-[![BOJ](https://bojstat.vulcan.site/sk14cj)](https://www.acmicpc.net/user/sk14cj)
+[![BOJ](https://bojstat.vulcan.site/user/sk14cj?v=3)](https://www.acmicpc.net/user/sk14cj)
 <br>
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsk14cj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
