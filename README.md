@@ -10,7 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJHeo01&show_icons=true&theme=dracula)
 <br>
-[![BOJ](https://bojstat.vulcan.site/v2/ko/sk14cj?v=3)](https://github.com/YJHeo01/BOJ_STAT)
+[![BOJ](https://bojstat.vulcan.site/v2/ko/sk14cj)](https://github.com/YJHeo01/BOJ_STAT)
 <br>
 [![Atcoder](https://atcoder.junah.dev/v1/generate_badge?name=sk14cj)](https://atcoder.jp/users/sk14cj)
 <!--
