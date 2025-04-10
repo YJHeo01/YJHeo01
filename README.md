@@ -10,9 +10,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJHeo01&show_icons=true&theme=dracula)
 <br>
-[![BOJ](https://bojstat.vulcan.site/user/sk14cj?v=3)](https://www.acmicpc.net/user/sk14cj)
+[![BOJ](https://bojstat.vulcan.site/v2/ko/sk14cj?v=3)](https://github.com/YJHeo01/BOJ_STAT)
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sk14cj)](https://solved.ac/sk14cj/)
 [![Atcoder](https://atcoder.junah.dev/v1/generate_badge?name=sk14cj)](https://atcoder.jp/users/sk14cj)
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsk14cj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
