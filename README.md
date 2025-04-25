@@ -38,7 +38,7 @@
     "Problem Solving (Baekjoon)",
     "Competitive Programming (AtCoder)",
     "Chess (Chess.com)",
-    "Watching Baseball (SSG Landers)"
+    "Baseball (SSG Landers)"
   ],
 }
 ```
