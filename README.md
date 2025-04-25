@@ -69,8 +69,13 @@
 `Embedded System`, `RESTful API Design`
 
 ## 📫 How to reach me
-- **Email** : sk14cj@inu.ac.kr
-- **Blog** : <https://blog.naver.com/sk14cj>
+<!-- 소셜 배지 -->
+<p align="center">
+  <a href="https://github.com/YJHeo01"><img src="https://img.shields.io/github/followers/YJHeo01?label=Follow&style=social"></a>
+  <a href="https://www.linkedin.com/in/yjheo01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="https://blog.naver.com/thinking_diary"><img src="https://img.shields.io/badge/Blog-20C997?logo=naver&logoColor=white"></a>
+  <a href="mailto:sk14cj@inu.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
