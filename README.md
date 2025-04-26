@@ -101,7 +101,7 @@
 </details>
 
 ## 🌱 I’m currently learning
-`Embedded System`, `RESTful API Design`, 'Algorithm'
+`Embedded System`, `RESTful API Design`, `Algorithm`
 
 ## 📫 How to reach me
 <!-- 소셜 배지 -->
