@@ -67,8 +67,41 @@
 
 ---
 
+## 🏅 Activities
+<details>
+  <summary>📂 Projects (click to expand)</summary>
+
+| 기간 | 프로젝트 | 설명 | 링크 |
+| :--: | :------ | :-- | :-- |
+| 2025-현재 | **BOJ_STAT** | Baekjoon·Solved.ac 통계 SVG 뱃지 자동 생성 서비스 | [Repo](https://github.com/YJHeo01/BOJ_STAT) |
+
+</details>
+
+<details>
+  <summary>🎖️ Competition & Awards</summary>
+
+| 연도 | 대회 · 주최 | 역할/성과 | 비고 |
+| :--: | :--------- | :------- | :--- |
+| 2025 | **2025 프로그래머스 코드챌린지** | 2차 예선 84등 | [링크](https://career.programmers.co.kr/competitions/4079) |
+| 2024 | **백준 연간 랭킹** | 132등 | [링크](https://www.acmicpc.net/ranklist/year/2024/2) |
+| 2024 | **INU 코드 페스티벌 2024** | 운영진,출제진/공로상 | [대회](https://www.acmicpc.net/contest/view/1362) [Repo](https://github.com/YJHeo01/INU_Code_Festival) |
+| 2024~ | **AtCoder Algorithm Contest** | 5 Kyu, Max Rating : 1032 | [링크](https://atcoder.jp/users/sk14cj) |
+| 2024 | **Korea Univ. MatKor Cup 5th** | 특별상(32등) | [스코어보드](https://www.acmicpc.net/contest/board/1324) |
+
+</details>
+
+<details>
+  <summary>🤝 Community / Contribution</summary>
+
+| 연도 | 활동 | 설명 | 링크 |
+| :--: | :--- | :-- | :-- |
+| 2024~ | **BBConf** | 컨퍼런스 |[링크](https://github.com/bbconfhq)|
+| 2024~ | **INU PS** | 백준 그룹 |[링크](https://www.acmicpc.net/group/3647)|
+
+</details>
+
 ## 🌱 I’m currently learning
-`Embedded System`, `RESTful API Design`
+`Embedded System`, `RESTful API Design`, 'Algorithm'
 
 ## 📫 How to reach me
 <!-- 소셜 배지 -->
