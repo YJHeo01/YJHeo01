@@ -74,6 +74,7 @@
 | 기간 | 프로젝트 | 설명 | 링크 |
 | :--: | :------ | :-- | :-- |
 | 2025- | **BOJ_STAT** | Baekjoon·Solved.ac 통계 SVG 뱃지 생성 API (github 10+star, Python, Flask, SQL) | [Repo](https://github.com/YJHeo01/BOJ_STAT) |
+| 2024 | **INU 코드 페스티벌 2024** | 인천대학교 교내 알고리즘 경진대회 운영 및 문제 출제 | [Repo](https://github.com/YJHeo01/INU_Code_Festival) |
 | 2022 | **스마트 홈 서비스** | 라즈베리파이, 아두이노 등을 활용하여 만든 스마트 홈 서비스 미니 조별 프로젝트 | (예정) |
 | 2022 | **신호등 시스템** | STM32 마이크로 컨트롤러를 사용하여 신호등 시스템을 구현한 미니 개인 프로젝트, (C, ST-LINK) | (예정) |
 | 2021 | **슈팅 게임** | 수업에서 배운 객체지향 프로그래밍을 적용해본 게임 (C++, SFML) | (예정) |
@@ -87,7 +88,7 @@
 | :--: | :--------- | :------- | :--- |
 | 2025- | **2025 프로그래머스 코드챌린지** | 2차 예선 84등 | [링크](https://career.programmers.co.kr/competitions/4079) |
 | 2024 | **백준 연간 랭킹** | 132등 | [링크](https://www.acmicpc.net/ranklist/year/2024/2) |
-| 2024 | **INU 코드 페스티벌 2024** | 운영진, 출제진/공로상 | [대회](https://www.acmicpc.net/contest/view/1362) [Repo](https://github.com/YJHeo01/INU_Code_Festival) |
+| 2024 | **인천대학교 정보기술대학** | 공로상 / 대회 운영 | [약 90명 참여](https://www.acmicpc.net/contest/view/1362)  |
 | 2024- | **AtCoder Algorithm Contest** | 5 Kyu, Max Rating : 1032 | [링크](https://atcoder.jp/users/sk14cj) |
 | 2024 | **Korea Univ. MatKor Cup 5th** | 특별상(32등) | [스코어보드](https://www.acmicpc.net/contest/board/1324) |
 
