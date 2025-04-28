@@ -104,6 +104,16 @@
 
 </details>
 
+<details>
+  <summary>📜 Certifications</summary>
+
+| 발급일 | 자격증 | 발급 기관 | 비고 |
+| :---: | :------- | :---------- | :-- |
+| 2023-09 | 정보처리기사 | 한국산업인력공단 | 필기·실기 합격 |
+| 2023-04 | SQLD | 한국데이터산업진흥원 | 86점 |
+
+</details>
+
 ## 🌱 I’m currently learning
 `Embedded System`, `RESTful API Design`, `Algorithm`
 
