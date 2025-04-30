@@ -12,18 +12,13 @@
     "YJHeo01",
     "sk14cj"
   ],
-  "position": [
+  "Interests": [
     "Embedded SW",
-    "Back-end"
+    "Back-end",
+    "Competitive Programming"
   ],
   "education": "Incheon National University",
-  "major": "Embedded System Engineering",
-  "hobbies": [
-    "Problem Solving (Baekjoon)",
-    "Competitive Programming (AtCoder)",
-    "Chess (Chess.com)",
-    "Baseball (SSG Landers)"
-  ],
+  "major": "Embedded System Engineering"
 }
 ```
 
