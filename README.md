@@ -76,8 +76,6 @@
 
 <div align="center">
 
-![YJHeo01's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJHeo01&show_icons=true&theme=dracula)
-<br>
 [![BOJ](https://bojstat.vulcan.site/v2/ko/sk14cj)](https://github.com/YJHeo01/BOJ_STAT)
 
 </div>
