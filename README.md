@@ -1,24 +1,8 @@
-<!-- 프로필 헤더 -->
-<div align="center">
 
-# 👋 Hi there, I’m **YJHeo01**  
-문제 해결 및 효율적인 코드 작성에 관심이 많은 학생입니다.
-
-<!-- 소셜 배지 -->
-<p align="center">
-  <a href="https://github.com/YJHeo01"><img src="https://img.shields.io/github/followers/YJHeo01?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/yjheo01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="https://blog.naver.com/thinking_diary"><img src="https://img.shields.io/badge/Blog-20C997?logo=naver&logoColor=white"></a>
-  <a href="mailto:sk14cj@inu.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://www.chess.com/member/sk14cj"><img src="https://img.shields.io/badge/Chess.com-Play-green?style=flat&logo=Chess.com&logoColor=white"></a>
-
-</p>
-</div>
 
 ---
 
 ## 🧑‍💻 About Me
-
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fblurfx&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" width="0" height="0" />
 
 ```json
@@ -102,7 +86,14 @@
 </details>
 
 ---
-
+</p>
+</div>
 <p align="center">
-  Thanks for visiting! ⭐️
+  <!-- 소셜 배지 -->
+<p align="center">
+  <a href="https://github.com/YJHeo01"><img src="https://img.shields.io/github/followers/YJHeo01?label=Follow&style=social"></a>
+  <a href="https://www.linkedin.com/in/yjheo01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="https://blog.naver.com/thinking_diary"><img src="https://img.shields.io/badge/Blog-20C997?logo=naver&logoColor=white"></a>
+  <a href="mailto:sk14cj@inu.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.chess.com/member/sk14cj"><img src="https://img.shields.io/badge/Chess.com-Play-green?style=flat&logo=Chess.com&logoColor=white"></a>
 </p>
