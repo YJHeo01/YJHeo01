@@ -24,15 +24,6 @@
 
 ---
 
-## 📊 Baekjoon Online Judge
-<div align="center">
-
-[![BOJ](https://bojstat.vulcan.site/v2/ko/sk14cj)](https://github.com/YJHeo01/BOJ_STAT)
-
-</div>
-
----
-
 ## 🏅 Activities
 <details>
   <summary>📂 Projects (click to expand)</summary>
@@ -77,6 +68,19 @@
 | :---: | :------- | :---------- | :-- |
 | 2023-09 | 정보처리기사 | 한국산업인력공단 | 필기·실기 합격 |
 | 2023-04 | SQLD | 한국데이터산업진흥원 | 86점 |
+
+</details>
+
+<details>
+  <summary>📊 Stats</summary>
+
+<div align="center">
+
+![YJHeo01's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJHeo01&show_icons=true&theme=dracula)
+<br>
+[![BOJ](https://bojstat.vulcan.site/v2/ko/sk14cj)](https://github.com/YJHeo01/BOJ_STAT)
+
+</div>
 
 </details>
 
