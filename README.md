@@ -43,7 +43,7 @@
 
 | 연도 | 대회 · 주최 | 역할/성과 | 비고 |
 | :--: | :--------- | :------- | :--- |
-| 2025 | **2025 AWS X Codetree Programming Contest** | 본선 진출 | [링크](https://acpc2025.codetree.ai/) |
+| 2025 | **2025 AWS X Codetree Programming Contest** | 본선 N등 (예선 60등) | [링크](https://acpc2025.codetree.ai/) |
 | 2025 | **2025 프로그래머스 코드챌린지** | 2차 예선 84등 | [링크](https://career.programmers.co.kr/competitions/4079) |
 | 2024 | **백준 연간 랭킹** | 132등 | [링크](https://www.acmicpc.net/ranklist/year/2024/2) |
 | 2024 | **인천대학교 정보기술대학** | **공로상 / 알고리즘 대회 운영** | [약 90명 참여](https://www.acmicpc.net/contest/view/1362)  |
