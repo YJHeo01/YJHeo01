@@ -46,7 +46,7 @@
 | 2025 | **2025 AWS / Codetree Programming Contest** | 본선 47등 |  |
 | 2025 | **2025 프로그래머스 코드챌린지** | 2차 예선 84등 | [링크](https://career.programmers.co.kr/competitions/4079) |
 | 2024 | **백준 연간 랭킹** | 132등 | [링크](https://www.acmicpc.net/ranklist/year/2024/2) |
-| 2024 | **인천대학교 정보기술대학** | **공로상 / 알고리즘 대회 운영** | [약 90명 참여](https://www.acmicpc.net/contest/view/1362)  |
+| 2024 | **인천대학교 정보기술대학** | 공로상 / 알고리즘 대회 운영 | [약 90명 참여](https://www.acmicpc.net/contest/view/1362)  |
 | 2024- | **AtCoder Algorithm Contest** | 5 Kyu, Max Rating : 1032 | [링크](https://atcoder.jp/users/sk14cj) |
 | 2024 | **Korea Univ. MatKor Cup 5th** | 특별상(32등) | [스코어보드](https://www.acmicpc.net/contest/board/1324) |
 
